@@ -8,7 +8,7 @@ Hemos desarrollado un framework para integrar un sistema de incentivo económico
 
 
 
-Este proyecto aplica a dos bounties de la competencia:
+Este proyecto aplica al **track general** y a dos **bounties** de la competencia:
 1. **Beginners Bounty**: Hemos desplegado y verificado un contrato en la red Scroll.
 2. **Chainlink on Scroll Bounty**: Implementación de Chainlink en la red Scroll.
 

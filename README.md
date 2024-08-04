@@ -1,12 +1,11 @@
 # Incentify
 ## Descripción General
-Desarrollamos un framework para integrar un sistema de incentivo económico en la realización de cursos en plataformas web de E-Learning en el cual se paga un monto extra a la hora de comprar el curso que será devuelto en forma de recompensas a medida que se va completando el curso para incentivar a los estudiantes a terminar el curso. El sistema de cursos se implementa a través de un smart contract desplegado y verificado en scroll en donde el contrato permite a los usuarios: 
+Hemos desarrollado un framework para integrar un sistema de incentivo económico en la realización de cursos en plataformas de E-Learning. En este sistema, se paga un monto extra al comprar el curso, el cual se devuelve en forma de recompensas a medida que el estudiante avanza y completa el curso, incentivando así la finalización del mismo. El sistema de cursos se implementa a través de un smart contract desplegado y verificado en Scroll. Este contrato permite a los usuarios:
 
--Subir cursos
+- Subir cursos
+- Comprar cursos con una wallet y recibir recompensas progresivamente
+- Regalar cursos a otros usuarios
 
--Comprar un curso con una wallet e ir recibiendo recompensas
-
--Regalar cursos a otros usuarios
 
 
 Este proyecto aplica a dos bounties de la competencia:

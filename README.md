@@ -24,8 +24,8 @@ Hay que tener instalado:
 ### Clonar el Repositorio
 
 ```bash
-git clone https://github.com/tu_usuario/tu_repositorio.git
-cd tu_repositorio
+git clone https://github.com/Teo2423/IncentifyVF.git
+cd IncentifyVF
 ```
 
 ### Instalar dependencias

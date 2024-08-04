@@ -24,7 +24,7 @@ Hay que tener instalado:
 
 ```bash
 git clone https://github.com/Teo2423/IncentifyVF.git
-cd IncentifyVF/my-courses-app
+cd IncentifyVF\my-courses-app
 ```
 
 ### Instalar dependencias
